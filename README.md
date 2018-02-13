@@ -1,0 +1,1 @@
+This Spring Boot web application displays a random Chuck Norris Joke on the index. The code was builded following the online course: https://www.udemy.com/spring-framework-5-beginner-to-guru/
